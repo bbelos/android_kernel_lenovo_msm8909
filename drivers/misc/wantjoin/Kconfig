@@ -1,0 +1,6 @@
+
+menu	"Wantjoin software Configuration"
+
+source "drivers/misc/wantjoin/packflt/Kconfig"
+
+endmenu

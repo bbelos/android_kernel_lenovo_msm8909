@@ -1,0 +1,7 @@
+
+config WANTJOIN_PACKFLT
+	tristate "wantjoin co. ltd packet filter"
+	depends on NETFILTER
+	default n
+	help
+	  A packet filter module. Say Y when you want to support this tool.
